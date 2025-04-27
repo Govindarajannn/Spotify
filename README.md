@@ -232,7 +232,7 @@ The Spotify DBMS project is a application to manage and query data related to tr
 - Feel free to edit it according to your preferences or specific project needs!
 
 ### Co-Author:
-- [M Govindarajan](https://github.com/Govindarajannn)
+- [K Musadiiq Pasha](https://github.com/MusadiqPasha)
 
 ### License
 - This project is licensed under the MIT License - see the LICENSE file for details.
